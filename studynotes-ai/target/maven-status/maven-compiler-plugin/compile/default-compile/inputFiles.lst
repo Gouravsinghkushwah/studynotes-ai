@@ -1,0 +1,12 @@
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\ai\OpenAIClient.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\config\OpenAIConfig.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\controller\NotesController.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\controller\PdfController.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\model\GroqResponse.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\model\NotesRequest.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\model\NotesResponse.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\service\NotesService.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\service\PdfService.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\service\PromptService.java
+V:\Project_Real\studynotes-ai\src\main\java\com\studynotes\ai\StudynotesAiApplication.java
+V:\Project_Real\studynotes-ai\src\main\java\package-info.java

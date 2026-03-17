@@ -1,0 +1,4 @@
+com\studynotes\ai\StudynotesAiApplication.class
+com\studynotes\ai\controller\NotesController.class
+com\studynotes\ai\config\OpenAIConfig.class
+com\studynotes\ai\ai\OpenAIClient.class
