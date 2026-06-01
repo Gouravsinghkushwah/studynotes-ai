@@ -53,7 +53,7 @@ Generate multiple outputs in a single request:
 | Layer        | Technology            |
 | ------------ | --------------------- |
 | Backend      | Java, Spring Boot     |
-| AI Engine    | Groq API (LLM आधारित) |
+| AI Engine    | Groq API (LLM ) |
 | Architecture | Microservices-ready   |
 | Database     | MongoDB / MySQL       |
 | Tools        | Postman, Maven, Git   |
@@ -83,7 +83,7 @@ POST /api/notes/upload-pdf
 
 ## 🚀 Future Enhancements
 
-* 🔐 User Authentication (JWT आधारित)
+* 🔐 User Authentication (JWT)
 * 💳 Subscription Model (Monetization 💰)
 * 📊 Analytics Dashboard
 * 🌐 Frontend (React / SaaS UI)
